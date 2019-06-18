@@ -7,3 +7,4 @@
 .local/
 .nbgrader.log
 .profile
+.gitconfig
